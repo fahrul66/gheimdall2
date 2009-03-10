@@ -1,5 +1,3 @@
-#summary One-sentence summary of this page.
-
 = GHeimdall2 !BitBucket Repository (Mercurial) =
 
 http://bitbucket.org/tmatsuo/gheimdall2/
