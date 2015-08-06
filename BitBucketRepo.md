@@ -1,0 +1,8 @@
+# GHeimdall2 BitBucket Repository (Mercurial) #
+
+http://bitbucket.org/tmatsuo/gheimdall2/
+
+To clone this repository, you can follow the instruction bellow:
+```
+$ hg clone https://tmatsuo@bitbucket.org/tmatsuo/gheimdall2/
+```
